@@ -1,0 +1,37 @@
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z6argmaxiPiPKfS1_ii' for 'sm_80'
+ptxas info    : Function properties for _Z6argmaxiPiPKfS1_ii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 32 registers, 392 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z7softmaxiPfii' for 'sm_80'
+ptxas info    : Function properties for _Z7softmaxiPfii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 32 registers, 376 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z4rr_3iPfPKfii' for 'sm_80'
+ptxas info    : Function properties for _Z4rr_3iPfPKfii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 20 registers, 384 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z4rr_2iPfPKfS1_iii' for 'sm_80'
+ptxas info    : Function properties for _Z4rr_2iPfPKfS1_iii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 30 registers, 396 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z4rr_1iPfPKiii' for 'sm_80'
+ptxas info    : Function properties for _Z4rr_1iPfPKiii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 32 registers, 384 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z4nb_4iPfPKfii' for 'sm_80'
+ptxas info    : Function properties for _Z4nb_4iPfPKfii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 21 registers, 384 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z4nb_3iPfPKfS1_ii' for 'sm_80'
+ptxas info    : Function properties for _Z4nb_3iPfPKfS1_ii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 24 registers, 392 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z4nb_2iPfPKfii' for 'sm_80'
+ptxas info    : Function properties for _Z4nb_2iPfPKfii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 30 registers, 384 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z4nb_1iPfPKiPKfiii' for 'sm_80'
+ptxas info    : Function properties for _Z4nb_1iPfPKiPKfiii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 30 registers, 396 bytes cmem[0]

@@ -1,0 +1,33 @@
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z11reset_imageiPfi' for 'sm_80'
+ptxas info    : Function properties for _Z11reset_imageiPfi
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 10 registers, 372 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z7combineiPfS_S_S_i' for 'sm_80'
+ptxas info    : Function properties for _Z7combineiPfS_S_S_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 396 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z9unsharpeniPfS_S_fi' for 'sm_80'
+ptxas info    : Function properties for _Z9unsharpeniPfS_S_fi
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 14 registers, 392 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z6extendiPfS_S_S_i' for 'sm_80'
+ptxas info    : Function properties for _Z6extendiPfS_S_S_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 16 registers, 396 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z14minimum_kerneliPfS_i' for 'sm_80'
+ptxas info    : Function properties for _Z14minimum_kerneliPfS_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 10 registers, 380 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z14maximum_kerneliPfS_i' for 'sm_80'
+ptxas info    : Function properties for _Z14maximum_kerneliPfS_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 10 registers, 380 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z5sobeliPfS_ii' for 'sm_80'
+ptxas info    : Function properties for _Z5sobeliPfS_ii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 40 registers, 72 bytes smem, 384 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z13gaussian_bluriPfS_S_iii' for 'sm_80'
+ptxas info    : Function properties for _Z13gaussian_bluriPfS_S_iii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 32 registers, 396 bytes cmem[0]

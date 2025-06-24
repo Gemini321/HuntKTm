@@ -1,0 +1,9 @@
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z6reduceiPfS_S_i' for 'sm_80'
+ptxas info    : Function properties for _Z6reduceiPfS_S_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 14 registers, 388 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z6squareiPfS_i' for 'sm_80'
+ptxas info    : Function properties for _Z6squareiPfS_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 14 registers, 380 bytes cmem[0]

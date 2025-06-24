@@ -1,0 +1,5 @@
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z2bsiPdS_idddd' for 'sm_80'
+ptxas info    : Function properties for _Z2bsiPdS_idddd
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 39 registers, 416 bytes cmem[0], 208 bytes cmem[2]

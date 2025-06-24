@@ -1,0 +1,21 @@
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z6concatiPfS_S_i' for 'sm_80'
+ptxas info    : Function properties for _Z6concatiPfS_S_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 14 registers, 388 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z11dot_productiPfS_S_i' for 'sm_80'
+ptxas info    : Function properties for _Z11dot_productiPfS_S_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 12 registers, 388 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z3gapiPfS_iii' for 'sm_80'
+ptxas info    : Function properties for _Z3gapiPfS_iii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 388 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z12mean_poolingiPfS_iiiii' for 'sm_80'
+ptxas info    : Function properties for _Z12mean_poolingiPfS_iiiii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 29 registers, 396 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z6conv2diPfS_S_iiiiii' for 'sm_80'
+ptxas info    : Function properties for _Z6conv2diPfS_S_iiiiii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 32 registers, 408 bytes cmem[0]
